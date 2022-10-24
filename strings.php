@@ -33,3 +33,4 @@ $str = " Olá, meu nome é  Elvis  ";
 var_dump(trim($str));
 
 //eu sou uma nova linha
+//testando novamente uma nova linha
