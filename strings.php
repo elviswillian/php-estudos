@@ -31,3 +31,5 @@ echo "<hr>";
 //caracteres vazios? Antes ou depois e no meio.
 $str = " Olá, meu nome é  Elvis  ";
 var_dump(trim($str));
+
+//eu sou uma nova linha
